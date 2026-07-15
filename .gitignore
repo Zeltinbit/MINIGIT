@@ -1,0 +1,13 @@
+# Executable files
+*.exe
+*.out
+
+# MiniGit generated data
+.minigit/
+
+# VS Code
+.vscode/
+
+# Build files
+*.o
+*.obj
