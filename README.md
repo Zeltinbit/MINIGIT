@@ -9,7 +9,7 @@ A simplified Git version control system built in C++ to demonstrate the core con
 - Initialize a repository
 - Add files to the staging area
 - Create commits
-- View commit history
+- View commit historygit sta
 - Create branches
 - Switch between branches
 - Merge branches
@@ -73,11 +73,23 @@ exit
 
 ---
 
-## Demo
+## 🎥 Demo
 
-A demonstration video of the project is included in this repository.
+Watch the MiniGit demonstration video here:
 
----
+▶️ **[Watch the Demo Video](https://drive.google.com/file/d/192UBMFenQmrowKRVFJ3Lt8Y_w22HI2RQ/view?usp=drive_link)**
+
+### Demonstrated Features
+
+- Initialize a MiniGit repository
+- Add files to the staging area
+- Create commits
+- View commit history
+- Create and switch branches
+- Merge branches
+- Compare file differences
+
+The demo showcases the core functionality of the MiniGit project and how the command-line interface works.
 
 ## What I Learned
 
